@@ -54,5 +54,5 @@ public class CustomerTest {
 }
 ```
 # result:
-
+![](https://github.com/ppc-ntu-khpi/java-1-m1r4sh/blob/main/Solution/advanced.png?raw=true)
 
